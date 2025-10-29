@@ -16,7 +16,7 @@ timezone:
 
 title: A. Muhammad Zulfikar # the main title
 
-tagline: Information System Undergraduate Student at Hasanuddin University  # it will display as the subtitle
+tagline: Information System Undergraduate Student at Hasanuddin University # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   blog, github, projects.
@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/profil.jpg
+avatar: https://drive.google.com/file/d/10gHg8rlpB4wUg1JLU6Nl80IreCdO0AUc/view?usp=drivesdk
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
