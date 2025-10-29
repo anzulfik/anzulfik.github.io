@@ -2,7 +2,7 @@
 layout: post
 title: "apalah"
 date: 2025-10-29 10:00:00 +0700
-categories: blog
+categories: [blog]
 tags: [contoh, test]
 ---
 # UCUL BOTAKKK
